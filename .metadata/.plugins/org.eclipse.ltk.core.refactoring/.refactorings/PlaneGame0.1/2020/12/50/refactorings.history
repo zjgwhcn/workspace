@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;cn.sxt.game&apos; to &apos;PlaneGame0.2/src&apos;&#x0D;&#x0A;- Original project: &apos;PlaneGame0.1&apos;&#x0D;&#x0A;- Destination element: &apos;PlaneGame0.2/src&apos;&#x0D;&#x0A;- Original element: &apos;PlaneGame0.1/src/cn.sxt.game&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=PlaneGame0.2/src" element1="/src&lt;cn.sxt.game" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1607481124445" version="1.0"/>
+</session>
